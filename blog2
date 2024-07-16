@@ -1,0 +1,22 @@
+7/16
+//Explore ImageNet, ImageNet sample images, Kaggle ImageNet Mini 1000. What surprises you about this data set? What questions do you have? 
+I feel surprised that this data set includes so many objects, and it can even distinguish different kinds of beetles, leopards, and snow leopards. 
+Sometimes even humans don't know the difference. Where do they get the data and training photos?
+
+//Thinking back to last week’s assignment, can you think of any ethical considerations around how this data was collected Are there privacy considerations with the data?
+Yes, they might use private photos without permissions. I know that some photography agencies would sell the photos or images, but I am not sure where they get all the photos. 
+Nobody would know.
+
+//ten objects:
+dark glasses (right, but mixes with sunglasses)
+vase, right, if position changes, horizontally placed, then it's "conch"
+book, wrong, carton/drumsticks
+cowboy boot, right, when horizontally placed, it's "poncho"
+bottle, right, water bottle, but also "hair spray"
+scissor,can't recognize, "loupe" "hook" "slethoscope"
+ball-point pen, not exactly right, paintbrush
+pencil case,"purse", "packet"
+hat,right, ten gallon hat
+Olympus camera, cellular phone, plariod camera
+
+rough accuracy 7/10, actual accuracy is 5/10
